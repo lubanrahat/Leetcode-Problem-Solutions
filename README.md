@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
