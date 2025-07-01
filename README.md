@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
