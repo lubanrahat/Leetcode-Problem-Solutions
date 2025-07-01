@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
