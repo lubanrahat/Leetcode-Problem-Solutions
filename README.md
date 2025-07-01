@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
