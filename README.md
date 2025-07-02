@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -34,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
