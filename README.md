@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0792-binary-search) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0048-rotate-image) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0792-binary-search) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/lubanrahat/Leetcode-Problem-Solutions/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 <!---LeetCode Topics End-->
